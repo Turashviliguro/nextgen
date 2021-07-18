@@ -16,6 +16,24 @@ a {
 a:hover {
   color: #FF0;
 }
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size:large;
+}
+
+
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
 .fixed-side-navbar {
   position: fixed;
   top: 50%;
