@@ -1,3 +1,3 @@
 # nextgen
  
-საბაკალავრო პროექტი
+University Project...
